@@ -1,13 +1,17 @@
 ### Hi there 👋
 
 ### :woman_technologist: &nbsp;About Me :
-<div style="text-align: right"> [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lingzilla)](https://github.com/anuraghazra/github-readme-stats) </div>
 
 I am a full time job student.
 
 - 🔭 I’m working as a full fuel man
 - 🌱 Exploring [ysyx](https://ysyx.oscc.cc/)
 - 🤔 I’m looking for help with Internships
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lingzilla)](https://git.io/streak-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lingzilla)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠 &nbsp;Languages and Tools :
 <p>
@@ -20,11 +24,6 @@ I am a full time job student.
   <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" title="ArchLinux" alt="Archlinux" width="120" height="40"/>&nbsp;
 <p>
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lingzilla)](https://git.io/streak-stats)
-
-
-  
 ### ✍️ My Blog : 
 - [Lingzilla](https://Lingzilla.github.io)
 <!--
