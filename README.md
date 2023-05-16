@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![header-pusheen-trans](https://github.com/Lingzilla/Lingzilla/assets/133772875/ec1dbc39-b53b-47d1-a55d-928ec079eb07)
+
 ### :woman_technologist: &nbsp;About Me :
 
 I am a full time job student.
