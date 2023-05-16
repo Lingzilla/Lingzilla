@@ -26,7 +26,7 @@ I am a full time job student.
 ### ✍️ My Blog : 
 - [Lingzilla](https://Lingzilla.github.io)
 
-### 💓Streak :
+### 📶Streak :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Lingzilla)](https://git.io/streak-stats)
   
 <!--
