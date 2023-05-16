@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ### :woman_technologist: &nbsp;About Me :
+<div style="text-align: right"> [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lingzilla)](https://github.com/anuraghazra/github-readme-stats) </div>
 
 I am a full time job student.
 
@@ -22,10 +23,10 @@ I am a full time job student.
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Lingzilla)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lingzilla)](https://github.com/anuraghazra/github-readme-stats)
+
   
 ### ✍️ My Blog : 
-- [Lingzilla](https://lingzilla.github.io)
+- [Lingzilla](https://Lingzilla.github.io)
 <!--
 **Lingzilla/Lingzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
