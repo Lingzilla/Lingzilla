@@ -4,12 +4,11 @@
 
 I am a full time job student.
 
-- 🔭 I’m working as a full fuel man
+- 🔭 I’m working as a full fuel machine
 - 🌱 Exploring [ysyx](https://ysyx.oscc.cc/)
 - 🤔 I’m looking for help with Internships
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lingzilla)](https://git.io/streak-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lingzilla)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,6 +25,10 @@ I am a full time job student.
 
 ### ✍️ My Blog : 
 - [Lingzilla](https://Lingzilla.github.io)
+
+### 💓Streak :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lingzilla)](https://git.io/streak-stats)
+  
 <!--
 **Lingzilla/Lingzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
