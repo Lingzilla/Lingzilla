@@ -2,6 +2,11 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
+I am a full time job student.
+
+- 🔭 I’m working as a full fuel man
+- 🌱 Exploring [ysyx](https://ysyx.oscc.cc/)
+- 🤔 I’m looking for help with Internships
 
 ### 🛠 &nbsp;Languages and Tools :
 <p>
@@ -13,6 +18,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
   <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" title="ArchLinux" alt="Archlinux" width="120" height="40"/>&nbsp;
 <p>
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lingzilla0&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingzilla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 ### ✍️ My Blog : 
 - [Lingzilla](https://lingzilla.github.io)
