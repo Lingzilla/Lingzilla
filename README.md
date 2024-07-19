@@ -10,6 +10,7 @@ I am a full time job student.
 - 🌱 Exploring Rust && Risk-Five
 - 🤔 I’m looking for help with Internships
 
+<!--
 ### 🔥 &nbsp; My Stats :
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lingzilla)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,12 +25,15 @@ I am a full time job student.
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
   <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" title="ArchLinux" alt="Archlinux" width="120" height="40"/>&nbsp;
 <p>
+-->
 
 ### ✍️ My Blog : 
 - [Lingzilla](https://Lingzilla.github.io)
 
+<!--
 ### 📶Streak :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Lingzilla)](https://git.io/streak-stats)
+-->
   
 <!--
 **Lingzilla/Lingzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
