@@ -6,8 +6,8 @@
 
 I am a full time job student.
 
-- 🔭 I’m working as a full fuel machine
-- 🌱 Exploring [ysyx](https://ysyx.oscc.cc/)
+- 🔭 I like playing small boards (Single Board Computers)
+- 🌱 Exploring Rust && Risk-Five
 - 🤔 I’m looking for help with Internships
 
 ### 🔥 &nbsp; My Stats :
